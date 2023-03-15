@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+_commit: v1.0.7
+_src_path: gh:myrontuttle/python-copier-template
+author_email: myrongt@gmail.com
+author_name: Myron Tuttle
+author_username: myrontuttle
+minimal_python_version: '3.9'
+package_name: test_project
+project_description: ''
+project_name: test_project
+software_license: MIT License
